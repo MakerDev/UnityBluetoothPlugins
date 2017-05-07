@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\UnityBluetoothPlugin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher_round.png",
+        "source": "D:\\AndroidStudio\\UnityBluetoothPlugin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\UnityBluetoothPlugin\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudio\\UnityBluetoothPlugin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

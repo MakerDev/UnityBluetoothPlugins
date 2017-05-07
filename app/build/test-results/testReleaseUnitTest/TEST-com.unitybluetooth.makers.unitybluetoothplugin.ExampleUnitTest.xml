@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.unitybluetooth.makers.unitybluetoothplugin.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-04-06T13:10:31" hostname="DESKTOP-EL1T037" time="0.001">
+  <properties/>
+  <testcase name="addition_isCorrect" classname="com.unitybluetooth.makers.unitybluetoothplugin.ExampleUnitTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
